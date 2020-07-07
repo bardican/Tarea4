@@ -25,5 +25,5 @@ Para solucionar ese apartado, se consideró que como la energía o potencia en l
 
 ## Conclusión
 
-Se obtienen en el receptor los bits tal y como fueron enviados, la cantidad de ruido del canal a pesar de ser alta  no dificultó la labor del demoludador BPSK.
+Se obtienen en el receptor los bits tal y como fueron enviados, la cantidad de ruido del canal a pesar de ser alta  no dificultó la labor del demodudador BPSK.
 
